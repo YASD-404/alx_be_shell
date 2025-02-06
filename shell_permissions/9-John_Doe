@@ -1,0 +1,11 @@
+#!/bin/bash
+chmod u+r
+chmod u+w
+chmod u+x
+chmod g+r
+chmod g-w
+chmod g+x
+chmod o-r
+chmod o+w
+chmod o+x
+
